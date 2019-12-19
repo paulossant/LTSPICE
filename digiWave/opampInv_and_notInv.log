@@ -1,0 +1,72 @@
+Circuit: * C:\Users\CAP_1\Documents\LTspiceXVII\opampInv_and_notInv.asc
+
+Direct Newton iteration for .op point succeeded.
+.step v=0.001
+.step v=0.101
+.step v=0.201
+.step v=0.301
+.step v=0.401
+.step v=0.501
+.step v=0.601
+.step v=0.701
+.step v=0.801
+.step v=0.901
+.step v=1.001
+.step v=1.101
+.step v=1.201
+.step v=1.301
+.step v=1.401
+.step v=1.501
+.step v=1.601
+.step v=1.701
+.step v=1.801
+.step v=1.901
+.step v=2.001
+.step v=2.101
+.step v=2.201
+.step v=2.301
+.step v=2.401
+.step v=2.501
+.step v=2.601
+.step v=2.701
+.step v=2.801
+.step v=2.901
+.step v=3.001
+.step v=3.101
+.step v=3.201
+.step v=3.301
+.step v=3.401
+.step v=3.501
+.step v=3.601
+.step v=3.701
+.step v=3.801
+.step v=3.901
+.step v=4.001
+.step v=4.101
+.step v=4.201
+.step v=4.301
+.step v=4.401
+.step v=4.501
+.step v=4.601
+.step v=4.701
+.step v=4.801
+.step v=4.901
+.step v=5
+
+Date: Wed Dec 18 13:16:05 2019
+Total elapsed time: 3.533 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2768
+traniter = 2751
+tranpoints = 1259
+accept = 1163
+rejected = 96
+matrix size = 18
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.26 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.76 KB object code size  0.2/0.2/[0.2]
+
